@@ -1,5 +1,7 @@
 # 歩留まりとチップ単価をPythonで計算する｜1枚のウェハから何個取れるか
 
+[![run](https://github.com/jumpei1228/semiconductor-yield-cost-python/actions/workflows/run.yml/badge.svg)](https://github.com/jumpei1228/semiconductor-yield-cost-python/actions/workflows/run.yml)
+
 半導体のコストを決める「ウェハから取れるチップ数」と「歩留まり」を、Pythonで計算。ダイサイズを変えるとコストがどう動くのか、なぜ大きなチップは割高になるのかを、Murphyの歩留まりモデルで確かめます。
 
 > 📖 このコードの詳しい解説（理論・図解つき）は元記事をどうぞ:
